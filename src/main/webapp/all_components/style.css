@@ -1,0 +1,10 @@
+.bg-custom {
+   background-image: linear-gradient( 109.6deg,  rgba(15,2,2,1) 11.2%, rgba(36,163,190,1) 91.1% );
+}
+
+
+.navbar .nav-item:hover .nav-link {
+	background-color:#eee9f3;
+background-image: linear-gradient( 109.6deg,  rgba(15,2,2,1) 11.2%, rgba(36,163,190,1) 91.1% );
+	border-radius: 15px;
+}
