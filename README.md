@@ -1,5 +1,7 @@
 # 📚 E-Book Stack – Java-Based Digital Library Manager
 
+![](https://github.com/piyush5093/Ebook/blob/main/Screenshot%202025-07-21%20093247.png)
+
 🚀 **E-Book Stack** is a dynamic and responsive web application that allows users to manage their digital e-book library efficiently. Designed for book lovers and tech enthusiasts, it helps users to add, organize, and interact with their personal collection of books — all through a clean and modern interface.
 
 Built using **Java Technologies** like **JSP**, **Servlets**, and **JDBC**, this project demonstrates full-stack Java development with proper user authentication, database handling, and CRUD operations.
