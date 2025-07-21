@@ -49,14 +49,7 @@ Built using **Java Technologies** like **JSP**, **Servlets**, and **JDBC**, this
 - Mobile-friendly layout using Bootstrap
 - Smooth user interaction across devices
 
----
 
-## 🎬 Project Demo
-
-🎥 **Watch the Video Demo**:  
-[👉 Click to Watch on Google Drive / YouTube](https://drive.google.com/file/d/1cDrEEJcaPLal2iLyVIM6J79rQ5NhR01j/view?usp=drive_link)  
-
----
 
 
 
